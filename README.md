@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samixcv
-- 👀 I’m interested in everything front-end.
+- 👀 I’m interested in everything front-end with a sprinkle of back-end.
 - 🌱 I’m currently learning ... JavaScript, React, Python, SQL.
 
 
